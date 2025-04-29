@@ -1,0 +1,84 @@
+[
+  {
+    "id": "rac_basic_sample_project",
+    "name": "rac basic sample project",
+    "thumbnail": "projects/rac_basic_sample_project/thumbnail.png",
+    "camera": {
+      "eye": [-65, 37, 41],
+      "look": [-15, 0, 15]
+    },
+    "models": [{
+      "name": "rac basic sample project",
+      "src": "projects/rac_basic_sample_project/rac_basic_sample_project.gltf",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": true,
+      "visible": true
+    }]
+  }, {
+    "id": "technical_school",
+    "name": "technical school",
+    "thumbnail": "projects/technical_school/thumbnail.png",
+    "camera": {
+      "eye": [-65, 37, 41],
+      "look": [-15, 0, 15]
+    },
+    "models": [{
+      "name": "technical school",
+      "src": "projects/technical_school/technical_school.gltf",
+      "position": [0, 0, 0],
+      "rotation": [-90, 0, 0],
+      "scale": [0.001, 0.001, 0.001],
+      "instantiate": false,
+      "merge": false,
+      "edges": true,
+      "visible": true
+    }]
+  }, {
+    "id": "building_1",
+    "name": "building (IFC)",
+    "thumbnail": "projects/building_1/thumbnail.png",
+    "models": [{
+      "name": "building",
+      "src": "projects/building_1/building_1.ifc",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": true,
+      "visible": true
+    }]
+  }, {
+    "id": "car",
+    "name": "car (FBX)",
+    "thumbnail": "projects/car/thumbnail.png",
+    "models": [{
+      "name": "car",
+      "src": "projects/car/car.fbx",
+      "position": [0, 0, 0],
+      "rotation": [-90, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": false
+    }]
+  }, {
+    "id": "Luxury_building",
+    "name": "Luxury building (DAE)",
+    "thumbnail": "projects/Luxury_building/thumbnail.png",
+    "models": [{
+      "name": "Luxury_building",
+      "src": "projects/Luxury_building/Luxury_building.dae",
+      "position": [0, 0, 0],
+      "rotation": [-90, 0, 0],
+      "scale": [0.01, 0.01, 0.01],
+      "instantiate": false,
+      "merge": false,
+      "edges": false
+    }]
+  }
+]
